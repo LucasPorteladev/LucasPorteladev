@@ -9,19 +9,19 @@ Meu nome é Lucas Cerqueira Portela e estou atualmente no sétimo período de En
 
 ---
 
-### 🏆 Conquistas e Certificações
-* **Apresentação de Artigo Internacional:** Autor e palestrante no **CILAMCE** (Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia), atuando na apresentação de artigo científico focado em modelagem matemática e computacional.
+## 🏆 Conquistas e Certificações
+* **Apresentação de Artigo Internacional:** Autor e palestrante no **CILAMCE** (Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia), atuando na apresentação de artigo científico [Analyzing Team Performance Using Graph Theory Metrics](../AnalyzingTeamPerfomanceUsingGraph) focado em aplicar a teoria dos grafos no estudo do futebol.
 * **Proficiência em Inglês:** Certificado **Cambridge B2 First**.
 
 ---
 
-### 💻 Stack 
+## 💻 Stack 
 
 Possuo sólida experiência acadêmica em algoritmos, estrutura de dados e matemática aplicada. Possuo facilidade em traduzir requisitos complexos e modelagens matemáticas em lógica de programação eficiente.
 Tenho experiência prática no desenvolvimento de soluções utilizando C, C++, Java, Python e Dart, também possuo conhecimento em bancos de dados.
 Busco oportunidades para aplicar esse conhecimento no desenvolvimento de softwares, resolução de problemas, análise de dados e inteligência artificial.
 
-### 🛠️ Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,mysql,flutter" height="40" alt="skills" />
 </div
