@@ -10,7 +10,7 @@ Meu nome é Lucas Cerqueira Portela e estou atualmente no sétimo período de En
 ---
 
 ## 🏆 Conquistas e Certificações
-* **Apresentação de Artigo Internacional:** Autor e palestrante no **CILAMCE** (Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia), atuando na apresentação de artigo científico [Analyzing Team Performance Using Graph Theory Metrics](../AnalyzingTeamPerfomanceUsingGraph) focado em aplicar a teoria dos grafos no estudo do futebol.
+* **Apresentação de Artigo Internacional:** Autor e palestrante no **CILAMCE** (Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia), atuando na apresentação de artigo científico [Analyzing Team Performance Using Graph Theory Metrics](https://github.com/LucasPorteladev/AnalyzingTeamPerfomanceUsingGraph) focado em aplicar a teoria dos grafos no estudo do futebol.
 * **Proficiência em Inglês:** Certificado **Cambridge B2 First**.
 
 ---
