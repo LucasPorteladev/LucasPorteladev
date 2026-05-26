@@ -23,5 +23,5 @@ Busco oportunidades para aplicar esse conhecimento no desenvolvimento de softwar
 
 ### 🛠️ Linguagens e Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,mysql,postgres,flutter" height="40" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,mysql,flutter" height="40" alt="skills" />
 </div
